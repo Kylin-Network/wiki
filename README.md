@@ -1,2 +1,2 @@
 # wiki
-The repo for [wiki](https://wiki.kylin.network/).
+The [wiki](https://wiki.kylin.network/) for Kylin Network.
