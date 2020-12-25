@@ -19,4 +19,10 @@ Kylin seeks to create a validated data repository and economy such that the exte
 
 Besides, defeated by the data streams dilemma, which is the inability to funnel real and instantaneous data onto the blockchain to create greater social value. After learning the developments of Polkadot network expansion and the Substrate 2.0 Framework upgrade, we believe Kylin Network can serve as a competent facilitator between the supply and demand equation.
 
+## Token Economics
+### Token Utility and Use-cases
+The Kylin Network Mainnet token $KYL is necessary to secure and power the decentralized data network. The use-cases and utility of $KYL include but not limited to:
+* **Stake to be a Miner or Arbitrator:** All miners are required to stake $KYL with a higher stake equating in a high probability of being selected to fulfill data requests. 
+* **Intermediary of Exchange:** $KYL tokens will be used to pay as a transaction, query fee, and also for data access behind paywall (private APIs). 
+* **On-chain Governance:** $KYL Token holders are able to vote for the protocol upgrades and parameter changes on Kylin Network.
 
