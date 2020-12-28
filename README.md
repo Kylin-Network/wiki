@@ -26,3 +26,14 @@ The Kylin Network Mainnet token $KYL is necessary to secure and power the decent
 * **Intermediary of Exchange:** $KYL tokens will be used to pay as a transaction, query fee, and also for data access behind paywall (private APIs). 
 * **On-chain Governance:** $KYL Token holders are able to vote for the protocol upgrades and parameter changes on Kylin Network.
 
+### Token Metrics
+There are a total of 1 billion $KYL tokens, with the distribution plan as the following:
+| **Token Allocation** | **%** | **Vesting**                                            |
+| -------------------- | ----- | ------------------------------------------------------------ |
+| Token Sale           | 18%   | Specified in the Token Sale Primer, if you are interested in the contribution, please contact Kylin Team |
+| Team                 | 12.5% | 0% unlocked for 12 months, then monthly vesting over 24 months |
+| Advisors             | 3%    | 0% unlocked for 6 months, then monthly vesting over 18 months |
+| Community            | 1.5%  | 2-year vesting periods for marketing campaign and community rewards, e.g. Lockdrop |
+| Foundation Reserve   | 15%   | 10% unlocked on TGE, then monthly vesting over 36 months |
+| Ecosystem Building   | 10%   | 5% unlocked on TGE, then monthly vesting over 36 months, including Initial Parachain Offering (IPO) |
+| Mining Incentive     | 40%   | 10-year vesting period starting from the Mainnet launch |
