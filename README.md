@@ -37,3 +37,7 @@ There are a total of 1 billion $KYL tokens, with the distribution plan as the fo
 | Foundation Reserve   | 15%   | 10% unlocked on TGE, then monthly vesting over 36 months |
 | Ecosystem Building   | 10%   | 5% unlocked on TGE, then monthly vesting over 36 months, including Initial Parachain Offering (IPO) |
 | Mining Incentive     | 40%   | 10-year vesting period starting from the Mainnet launch |
+
+### Strategic Investors
+Kylin Network completed its seed round fundraising in Nov, receiving enormous support from nine institutional investors on capital, project advisement, technology development, future parachain slot auction, and more.
+![img](https://gblobscdn.gitbook.com/assets%2F-MGBi4vnGUWIFPwLzm86%2F-MNahZJy5W8J6sp6B0iU%2F-MNatIzmnh376c-kXyzu%2Fimage.png?alt=media&token=d869a76f-3992-4dcb-998d-9378eeee1a43)
