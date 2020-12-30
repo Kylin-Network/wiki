@@ -43,7 +43,11 @@ Kylin Network completed its seed round fundraising in Nov, receiving enormous su
 ![img](https://gblobscdn.gitbook.com/assets%2F-MGBi4vnGUWIFPwLzm86%2F-MNahZJy5W8J6sp6B0iU%2F-MNatIzmnh376c-kXyzu%2Fimage.png?alt=media&token=d869a76f-3992-4dcb-998d-9378eeee1a43)
 ### VRF & ORZ: To Build a Real Decentralized Oracle Network
 The data provider i.e. the Miner, is mainly responsible for providing various types of data, and the data verifier i.e. the arbitrators verify and challenge various data provided by the data provider and re-quote. The arbitration node arbitrates the query raised by the data verifier and forms the final result.
+
 In the mining design of Kylin Network, miners can obtain KYL by providing verifiable random numbers or quoting on-chain assets and other social data. Each time a miner calls a mining contract, the system does not charge any handling fees (except for Polkadot blockchain itself). Miners need to stake a certain amount of KYL each time the contract is called beside the blockchain node staking requirements. 
+
 Among all miners nodes wish to provide data quotes, Kylin Network will deploy Verifiable Random Function (VRF) to randomly select a group of miner nodes to compete for providing the most accurate market data. By introducing VRF into the system, the decentralized degree of the system could be boosted drastically.
+
 Moreover, Kylin Network will make settings on different weights on different staking amount ranking: Optimal Ranking Zone Model (ORZ). The staking amount ranking is based on the jump ranking weighting algorithm rather than the weighted average of the nodes staking amount. This is to avoid the control of KYL by a few people, avoid monopoly, and break up large nodes.
+
 Kylin Network has introduced a unique staking ranking method in the mining design, and users in the best ranking area will get the most benefits. This provides a good mechanism guarantee for attracting more users to participate in mining and is also conducive to data provision. People are more dispersed, ensuring the decentralization of the oracle system, and well guaranteeing the positive development of the community.
