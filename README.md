@@ -51,3 +51,8 @@ Among all miners nodes wish to provide data quotes, Kylin Network will deploy Ve
 Moreover, Kylin Network will make settings on different weights on different staking amount ranking: Optimal Ranking Zone Model (ORZ). The staking amount ranking is based on the jump ranking weighting algorithm rather than the weighted average of the nodes staking amount. This is to avoid the control of KYL by a few people, avoid monopoly, and break up large nodes.
 
 Kylin Network has introduced a unique staking ranking method in the mining design, and users in the best ranking area will get the most benefits. This provides a good mechanism guarantee for attracting more users to participate in mining and is also conducive to data provision. People are more dispersed, ensuring the decentralization of the oracle system, and well guaranteeing the positive development of the community.
+
+## Team Members and Advisors
+The 21-person team and advisor consist of technical, marketing and financial talent coming out of top blockchain projects, schools and employers including **Columbia University, Wharton, John Hopkins, Beam, TomoChain, Harmony, JP Morgan and Credit Suisse.**
+![img](https://gblobscdn.gitbook.com/assets%2F-MGBi4vnGUWIFPwLzm86%2F-MNahZJy5W8J6sp6B0iU%2F-MNaj8Thb6ZUBBEJqV9U%2Fimage.png?alt=media&token=935244a8-4e57-4e17-9161-6ca7924269aa)
+
