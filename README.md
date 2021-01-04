@@ -56,3 +56,5 @@ Kylin Network has introduced a unique staking ranking method in the mining desig
 The 21-person team and advisor consist of technical, marketing and financial talent coming out of top blockchain projects, schools and employers including **Columbia University, Wharton, John Hopkins, Beam, TomoChain, Harmony, JP Morgan and Credit Suisse.**
 ![img](https://gblobscdn.gitbook.com/assets%2F-MGBi4vnGUWIFPwLzm86%2F-MNahZJy5W8J6sp6B0iU%2F-MNaj8Thb6ZUBBEJqV9U%2Fimage.png?alt=media&token=935244a8-4e57-4e17-9161-6ca7924269aa)
 
+## Development Roadmap
+
