@@ -66,3 +66,5 @@ In this milestone, we will verify features with limited users and launch the tes
 
 ### Roadmap
 ![img](https://gblobscdn.gitbook.com/assets%2F-MGBi4vnGUWIFPwLzm86%2F-MKhjvbOPusv7Tva6qAz%2F-MKhkXrNrDu2mnK7g2CM%2Fimage.png?alt=media&token=c75ff769-523f-4ef9-95cf-5b177ca1b797)
+**2020 Q2** Proof of Concept Core Protocol Prototype Establishment
+**2020 Q3** Draft and Improvement of the Whitepaper
