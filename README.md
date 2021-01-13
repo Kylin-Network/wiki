@@ -69,3 +69,8 @@ In this milestone, we will verify features with limited users and launch the tes
 **2020 Q2** Proof of Concept Core Protocol Prototype Establishment
 
 **2020 Q3** Draft and Improvement of the Whitepaper
+
+**2020 Q3** Development & Marketing Launch
+
+**2020 Q3** Official Whitepaper Publish
+
