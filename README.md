@@ -74,3 +74,6 @@ In this milestone, we will verify features with limited users and launch the tes
 
 **2020 Q3** Official Whitepaper Publish
 
+**2020 Q4** Smart Contract Security Audit
+
+**2020 Q4** Private Testnet Release Internally
