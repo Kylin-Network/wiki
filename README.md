@@ -87,3 +87,9 @@ In this milestone, we will verify features with limited users and launch the tes
 **2021 Q3** Mainnet Version 1.0 Online
 
 **2021 Q3** Integrating Testnet DApps and Partners to Mainnet
+
+## Community Engagement
+
+Kylin’s current community engagement strategies include:
+
+
