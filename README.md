@@ -91,5 +91,5 @@ In this milestone, we will verify features with limited users and launch the tes
 ## Community Engagement
 
 Kylin’s current community engagement strategies include:
-
+* **Exposure on Leading Media Channels:** We will release additional articles on Forbes, The Block, CoinDesk, CoinTelegraph and many other leading media channels.
 
