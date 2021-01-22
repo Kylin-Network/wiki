@@ -92,4 +92,5 @@ In this milestone, we will verify features with limited users and launch the tes
 
 Kylin’s current community engagement strategies include:
 * **Exposure on Leading Media Channels:** We will release additional articles on Forbes, The Block, CoinDesk, CoinTelegraph and many other leading media channels.
+* **Ecosystem Development Lead Program:** We will launch an Ecosystem Development Lead Program to recruit and get more technology and development contributors involved into our project.
 
